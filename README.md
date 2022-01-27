@@ -10,3 +10,9 @@ node ex1.js
 ```
 
 [Clases JavaScript en Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes)
+
+## Soluciones
+
+Cada ejercicio (ex*) tiene la solución del anterior.
+
+[Enlace](https://github.com/omiras/classes-pokemon)
